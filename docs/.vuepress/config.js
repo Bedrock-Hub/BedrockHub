@@ -47,7 +47,7 @@ module.exports = {
       '/guide/llbds': [
         {
           text: 'LiteLoaderBDS',
-          children: ['/guide/llbds/event', '/guide/llbds/command', '/guide/llbds/packet', '/guide/llbds/hook'],
+          children: ['/guide/llbds/getting-started', '/guide/llbds/event', '/guide/llbds/command', '/guide/llbds/packet', '/guide/llbds/hook'],
         },
       ],
       '/guide/nukkit': [
