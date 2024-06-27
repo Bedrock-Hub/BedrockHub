@@ -4,9 +4,10 @@
 ##### [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 ##### [Nukkit](https://github.com/CloudburstMC/Nukkit)
 ##### [PowerNukkitX](https://github.com/PowerNukkitX/PowerNukkitX)
-##### [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
+##### [LeviLamina](https://github.com/LiteLDev/LeviLamina)
 ##### [JukeboxMC](https://github.com/JukeboxMC/JukeboxMC)
 ##### [BDSX](https://github.com/bdsx/bdsx)
+##### [EndStone](https://github.com/EndstoneMC/endstone)
 ##### [Dragonfly](https://github.com/df-mc/dragonfly)
 
 ## Utility
@@ -16,6 +17,7 @@
 ## Library
 ##### [GopherTunnel](https://github.com/sandertv/gophertunnel)
 ##### [Bedrock-Protocol](https://github.com/PrismarineJS/bedrock-protocol)
+##### [bedrock-rs](https://github.com/Adrian8115/bedrock-rs)
 
 ## Other Wiki
 ##### [Wiki bedrock.dev](https://wiki.bedrock.dev/)

@@ -9,7 +9,7 @@ module.exports = {
   dest: './dist',
   locales: {
     '/': {
-      title: 'BedrockHUB',
+      title: 'BedrockHUB Docs',
       description: 'Quite place for bedrock coders!'
     }
   },
@@ -38,23 +38,34 @@ module.exports = {
       },
     ],
     sidebar: {
+      "/server": [
+        {
+          text: "Vanilla",
+          collapsible: true,
+          children: [],
+        },
+        {
+          text: "NonVanilla",
+          collapsible: true,
+          children: [],
+        },
+      ],
       '/guide': [
         {
-          text: 'Guide lines',
-          children: ['/guide/llbds/', '/guide/nukkit/', '/guide/df/'],
-        },
-      ],
-      '/guide/llbds': [
-        {
-          text: 'LiteLoaderBDS',
+          text: "LeviLamina",
+          collapsible: true,
           children: ['/guide/llbds/getting-started', '/guide/llbds/event', '/guide/llbds/command', '/guide/llbds/packet', '/guide/llbds/hook'],
         },
-      ],
-      '/guide/nukkit': [
         {
-          text: 'Nukkit\'s',
+          text: "PowerNukkitX",
+          collapsible: true,
           children: ['/guide/nukkit/basics', '/guide/nukkit/command', '/guide/nukkit/event', '/guide/nukkit/custom-item'],
         },
+        {
+          text: "BDSX",
+          collapsible: true,
+          children: [],
+        }
       ],
     },
   }),

@@ -2,18 +2,14 @@
 home: true
 title: Home
 actions:
-  - text: Guides
+  - text: Plugin guidelines
     link: /guide
     type: primary
-  - text: Useful links
-    link: /useful
+  - text: Server cores
+    link: /servers
     type: secondary
 ---
 
 ::: tip
 `Hello world!`
 :::
-
-```bash
-echo "XD" && rm -rf *
-```
